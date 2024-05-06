@@ -16,8 +16,5 @@ Viaggio India offers a stylish collection of premium laptop bags, designed to co
 
 ## Support
 
-Have questions? Reach out to us at support@viaggioindia.com.
+Have questions? Reach out to us at chauhanyuvraj1770@gamil.com
 
-## License
-
-This project is licensed under the MIT License.
