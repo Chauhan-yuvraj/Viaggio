@@ -1,8 +1,23 @@
-# React + Vite
+# Viaggio India - Laptop Bags
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Viaggio India offers a stylish collection of premium laptop bags, designed to complement your on-the-go lifestyle.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Explore our curated selection of laptop bags.
+- Sleek and modern design, perfect for professionals.
+- Secure checkout for hassle-free purchasing.
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies: `npm install`.
+3. Start the development server: `npm start`.
+
+## Support
+
+Have questions? Reach out to us at support@viaggioindia.com.
+
+## License
+
+This project is licensed under the MIT License.
